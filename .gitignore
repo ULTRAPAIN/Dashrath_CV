@@ -2,3 +2,6 @@
 **/node_modules/
 # Environment variables
 my-project/.env
+
+# Ignore .gitignore file
+.gitignore
